@@ -1,4 +1,4 @@
-# Realtime chat application
+# Very simple realtime chat application using NextJS and Socket.io
 
 To run this example:
 
